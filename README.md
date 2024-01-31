@@ -1,2 +1,2 @@
 # myMultimodal
-multimodal components: my clip, ViT, detr
+Training codes of multimodal components: my clip, ViT, detr
